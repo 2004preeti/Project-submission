@@ -1,0 +1,174 @@
+body {
+  margin: 0;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+.header h2 {
+  text-align: center;
+}
+.progress-container {
+  width: 100%;
+  height: 15px;
+  background: #ccc;
+}
+.progress-bar {
+  height: 8px;
+  background: #04aa6d;
+  width: 0%;
+}
+.content {
+  padding: 100px 0;
+  margin: 50px auto 0 auto;
+  width: 80%;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
+.one {
+  border: 1px solid rgb(193, 191, 191);
+
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+}
+.two {
+  border: 1px solid rgb(193, 191, 191);
+
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+}
+.three {
+  border: 1px solid rgb(193, 191, 191);
+
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+}
+.four {
+  border: 1px solid rgb(193, 191, 191);
+
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+}
+.five {
+  border: 1px solid rgb(193, 191, 191);
+
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+}
+.six {
+  border: 1px solid rgb(193, 191, 191);
+
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+}
+.box {
+  width: 500px;
+  height: 70;
+}
+button {
+  margin-left: 50%;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+.seven {
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+  padding-top: 20%;
+}
+.img1 {
+  height: 200px;
+  width: 200px;
+}
+
+.box1 {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 1%;
+  background-color: #f1f1f1;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+.fun1 {
+  display: inline-flex;
+  margin: 1%;
+  margin-left: 18%;
+  width: 100%;
+  max-width: 1000px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding-bottom: 2%;
+}
+.fun2 {
+  padding-top: 10%;
+}
+
+.eight {
+  align-items: center;
+  font-size: 12px;
+  display: inline-flex;
+  margin-left: 30%;
+  padding-top: 10%;
+}
+.box2 {
+  width: 500px;
+  height: 70;
+}
+
+.img3 {
+  height: 50px;
+  width: 100px;
+}
+
+.img4 {
+  height: 15%;
+  width: 15%;
+  justify-content: center;
+  padding-left: 20%;
+}
+.fun5 {
+  font-size: 12px;
+  margin-left: 30%;
+  padding-top: 20%;
+}
+.box3 {
+  width: 450px;
+  height: 250px;
+  margin: 1%;
+  background-color: #f1f1f1;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+.but1 {
+  margin-left: 20%;
+  background-color: orange;
+  color: black;
+  border-radius: 5px;
+}
